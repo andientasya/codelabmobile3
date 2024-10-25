@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989735735941",
+    "project_id": "codlab3-25846",
+    "storage_bucket": "codlab3-25846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989735735941:android:524630db69b10cff224fec",
+        "android_client_info": {
+          "package_name": "com.codelabmodul3.codelabmo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpFEOBnd3dIowUsfdHszvVvc3wSCOSPJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989735735941:android:b6aeade59fe95782224fec",
+        "android_client_info": {
+          "package_name": "com.codelabmodul3.codelabmodul3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpFEOBnd3dIowUsfdHszvVvc3wSCOSPJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
